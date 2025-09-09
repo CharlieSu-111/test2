@@ -10,5 +10,5 @@ import lombok.Setter;
 @Getter
 @Setter
 public class CarDto {
-    private String name;
+    private long id;
 }
